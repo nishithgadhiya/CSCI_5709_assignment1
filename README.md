@@ -3,6 +3,10 @@
 * *Date Created*: 02 Feb 2023
 * *Last Modification Date*: 05 Feb 2023
 * *Git URL*: <https://git.cs.dal.ca/ngadhiya/csci-5709-assignments.git>
+* *Netlify deployed URL*: <https://ngadhiya-csci-5709-assignment1.netlify.app/>
+* *Github URL*: <https://github.com/suijaa/CSCI_5709_assignment1.git>
+* *Task Flow diagram in Lucid.app tool (Your Lucid login required)*: <https://lucid.app/lucidspark/d802cae3-1e73-4e38-9d78-89460f7fa0d7/edit?viewport_loc=-683%2C161%2C3065%2C1777%2C0_0&invitationId=inv_bc6dd6fe-01d4-4ef5-8eb8-201bc551e3d7>
+* *Lo-Fidelity Prototype in Balsamiq tool*: <https://balsamiq.cloud/s409pew/pitd0b1/r3C1E>
 
 ## Author
 
